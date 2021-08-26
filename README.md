@@ -1,11 +1,11 @@
 # Bleez-desafio
 repositório criado para acompanhar o desafio proposto pela bleez para vaga 
 
-#Diário de bordo
+# Diário de bordo
 
 feito para documentar as atualizações do projeto
 
-#Dia 25/08/2021
+# Dia 25/08/2021
  - Desafio desktop
   - estrutura flex implementada
   - css realizado
