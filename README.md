@@ -42,4 +42,11 @@ feito para documentar as atualizações do projeto
   
   ![Mobile-img-2 2](https://user-images.githubusercontent.com/75328283/131060734-28d5794f-7f99-44ce-a77a-3a8f6a329c42.png)
 
-  
+# Dia 27/08/2021
+ - Sass implementado
+ - Organização do css feita com sass
+
+ Ilustração:
+ 
+ ![image](https://user-images.githubusercontent.com/75328283/131171331-178645d6-e627-48fd-8492-017487dbaf71.png)
+
