@@ -1,6 +1,8 @@
 # Bleez-desafio
 repositório criado para acompanhar o desafio proposto pela bleez para vaga 
 
+- Deploy: https://competent-golick-f3ab12.netlify.app/
+
 # Diário de bordo
 
 feito para documentar as atualizações do projeto
