@@ -1,0 +1,33 @@
+html, body{
+  padding: 0;
+  margin: 0;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+
+/*
+  initial das propriedades iniciais de box e box2
+  as divs que eu vou usar para troansitar entre as versões
+  da aplicação
+*/
+
+#box {
+  display: none;
+}
+
+#box2 {
+  display: block;
+
+  height: 100vh;
+  width: 100%;
+}
+
+
+
+//versão Desktop
+
+@import 'components/desktop';
+
+// versão mobile
+@import 'components/mobile';
