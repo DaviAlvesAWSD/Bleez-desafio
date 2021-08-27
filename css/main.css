@@ -362,12 +362,15 @@ html, body {
             flex: none;
     width: 100%;
     height: 100%;
+    -webkit-box-shadow: 0px 5px 5px #aaaaaa;
+            box-shadow: 0px 5px 5px #aaaaaa;
     position: relative;
     scroll-snap-align: start;
   }
   .container .container-conteudo .row2 .items .item img {
     width: 100%;
     height: 100%;
+    border-radius: 8px;
     -o-object-fit: cover;
        object-fit: cover;
   }
